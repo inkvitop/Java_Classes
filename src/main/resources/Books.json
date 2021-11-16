@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Core Java Volume I--Fundamentals",
+    "author": "Cay_S._Horstmann",
+    "publishing": "Prentice_Hall",
+    "year": 2018,
+    "pages": 889,
+    "price": 41,
+    "binding": "soft"
+  },
+  {
+    "id": 2,
+    "name": "Effective Java",
+    "author": "Bloch_Joshua",
+    "publishing": "Addison_Wesley",
+    "year": 2018,
+    "pages": 392,
+    "price": 29,
+    "binding": "soft"
+  },
+  {
+    "id": 3,
+    "name": "Java: The Complete Reference, Twelfth Edition",
+    "author": "Herbert_Schildt",
+    "publishing": "McGraw-Hill_Education",
+    "year": 2021,
+    "pages": 1280,
+    "price": 45,
+    "binding": "soft"
+  },
+  {
+    "id": 4,
+    "name": "Java: A Beginner's Guide, Eighth Edition",
+    "author": "Herbert_Schildt",
+    "publishing": "McGraw-Hill_Education",
+    "year": 2018,
+    "pages": 720,
+    "price": 30,
+    "binding": "soft"
+  },
+  {
+    "id": 5,
+    "name": "Java: Learn Java in One Day and Learn It Well. Java for Beginners with Hands-on Project.",
+    "author": "Jamie_Chan",
+    "publishing": "Independently_published",
+    "year": 2016,
+    "pages": 235,
+    "price": 11,
+    "binding": "soft"
+  },
+  {
+    "id": 6,
+    "name": "Beginning Programming with Java For Dummies",
+    "author": "Barry_Burd",
+    "publishing": "For_Dummies",
+    "year": 2017,
+    "pages": 560,
+    "price": 20,
+    "binding": "soft"
+  },
+  {
+    "id": 7,
+    "name": "Objects First with Java: A Practical Introduction Using BlueJ",
+    "author": "Michael_Kolling",
+    "publishing": "Pearson",
+    "year": 2016,
+    "pages": 672,
+    "price": 133,
+    "binding": "soft"
+  },
+  {
+    "id": 8,
+    "name": "Data Structures and the Java Collections Framework",
+    "author": "William_J._Collins",
+    "publishing": "Wiley",
+    "year": 2011,
+    "pages": 768,
+    "price": 55,
+    "binding": "soft"
+  },
+  {
+    "id": 9,
+    "name": "Java Concurrency in Practice",
+    "author": "Brian_Goetz",
+    "publishing": "Addison-Wesley",
+    "year": 2006,
+    "pages": 432,
+    "price": 29,
+    "binding": "soft"
+  },
+  {
+    "id": 10,
+    "name": "Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications",
+    "author": "Tomasz_Nurkiewicz",
+    "publishing": "O'Reilly_Media",
+    "year": 2016,
+    "pages": 372,
+    "price": 44,
+    "binding": "soft"
+  },
+  {
+    "id": 11,
+    "name": "Murach's Java Programming",
+    "author": "Joel_Murach",
+    "publishing": "Mike_Murach_&_Associates",
+    "year": 2017,
+    "pages": 800,
+    "price": 49,
+    "binding": "soft"
+  },
+  {
+    "id": 12,
+    "name": "Learning Java: An Introduction to Real-World Programming with Java",
+    "author": "Marc_Loy",
+    "publishing": "O'Reilly_Media",
+    "year": 2020,
+    "pages": 518,
+    "price": 47,
+    "binding": "soft"
+  },
+  {
+    "id": 13,
+    "name": "Optimizing Java: Practical Techniques for Improving JVM Application Performance",
+    "author": "Benjamin_J_Evans",
+    "publishing": "O'Reilly_Media",
+    "year": 2018,
+    "pages": 440,
+    "price": 28,
+    "binding": "soft"
+  },
+  {
+    "id": 14,
+    "name": "Java: Programming Basics for Absolute Beginners",
+    "author": "Nathan_Clark",
+    "publishing": "CreateSpace_Independent_Publishing_Platform",
+    "year": 2017,
+    "pages": 115,
+    "price": 16,
+    "binding": "soft"
+  },
+  {
+    "id": 15,
+    "name": "Learn Java 12 Programming: A step-by-step guide to learning essential concepts in Java SE 10, 11, and 12",
+    "author": "Nick_Samoylov",
+    "publishing": "Packt_Publishing",
+    "year": 2019,
+    "pages": 690,
+    "price": 34,
+    "binding": "soft"
+  },
+  {
+    "id": 16,
+    "name": "Java Programming for Android Developers For Dummies",
+    "author": "Barry_Burd",
+    "publishing": "For_Dummies",
+    "year": 2016,
+    "pages": 456,
+    "price": 30,
+    "binding": "soft"
+  },
+  {
+    "id": 17,
+    "name": "Learn Java for FTC",
+    "author": "Alan_G_Smith",
+    "publishing": "Independently_published",
+    "year": 2020,
+    "pages": 185,
+    "price": 9,
+    "binding": "soft"
+  },
+  {
+    "id": 18,
+    "name": "Thinking in Java",
+    "author": "Bruce_Eckel",
+    "publishing": "Pearson",
+    "year": 2006,
+    "pages": 1150,
+    "price": 25,
+    "binding": "soft"
+  },
+  {
+    "id": 19,
+    "name": "Java How to Program, Early Objects",
+    "author": "Paul_Deitel",
+    "publishing": "Pearson",
+    "year": 2017,
+    "pages": 1296,
+    "price": 149,
+    "binding": "soft"
+  },
+  {
+    "id": 20,
+    "name": "Java for Fucking Idiots: Learn the Basics of Java Programming Without ANY Experience!",
+    "author": "Steven_Brown",
+    "publishing": "Self",
+    "year": 2019,
+    "pages": 158,
+    "price": 1,
+    "binding": "Digital version"
+  }
+]
